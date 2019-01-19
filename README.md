@@ -1,4 +1,5 @@
 ## Blogs
+* [Apple Swift Blog](https://swift.org/blog/)
 * [ASCII WWDC](http://asciiwwdc.com/)
 * [Big Nerd Ranch Blog](https://www.bignerdranch.com/blog/categories/ios/)
 * [David Rönnqvist](http://ronnqvi.st)

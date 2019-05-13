@@ -2,16 +2,19 @@
 * [Apple Swift Blog](https://swift.org/blog/)
 * [ASCII WWDC](http://asciiwwdc.com/)
 * [Big Nerd Ranch Blog](https://www.bignerdranch.com/blog/categories/ios/)
-* [David Rönnqvist](http://ronnqvi.st)
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [Matt Gemmell](http://mattgemmell.com/)
-* [Mike Ash](https://www.mikeash.com/pyblog/)
-* [NSHipster](http://nshipster.com)
 * [objc.io](http://www.objc.io)
 * [Ole Begemann](http://oleb.net/blog/)
 * [Peter Steinberger](http://petersteinberger.com/)
 * [Stable Kernel](http://stablekernel.com/blog/)
 * [Swift Revision History (Apple)](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
+* [Aaron Hillegass](https://www.bignerdranch.com/about/the-team/aaron-hillegass/) - 
+* [bbum](https://stackoverflow.com/users/25646/bbum) - 
+* [David Rönnqvist](http://ronnqvi.st) - 
+* [Mike Ash](https://www.mikeash.com/pyblog/) - 
+* [NSHipster](http://nshipster.com) - 
+* [Russ Bishop](http://www.russbishop.net) - 
 
 ## Books
 * [21st Century C - C Tips from the New School](http://shop.oreilly.com/product/0636920025108.do)
@@ -74,3 +77,5 @@ by Stanford](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swif
 * [Swift Revision History (ksm)](https://github.com/ksm/SwiftInFlux) 
 * [Texts from Xcode](http://www.textfromxcode.com/)
 * [What’s New in Xcode](https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/WhatsNewXcode/Articles/Introduction.html)
+
+ - Current or former Apple employee.
